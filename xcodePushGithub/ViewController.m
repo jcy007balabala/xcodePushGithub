@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"从Xcode推送到远程仓库");
 }
 
 - (void)didReceiveMemoryWarning {
